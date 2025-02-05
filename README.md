@@ -65,12 +65,6 @@ This is a simple Customer CRUD (Create, Read, Update, Delete) application built 
 | PUT | /customers/{id} | Update a customer |
 | DELETE | /customers/{id} | Delete a customer |
 
-## Server
-Run the tests using:
-```bash
-php artisan serve 
-```
-
 ## License
 This project is licensed under the MIT License.
 
